@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "490731510793",
+    "firebase_url": "https://gotech-add12-default-rtdb.firebaseio.com",
+    "project_id": "gotech-add12",
+    "storage_bucket": "gotech-add12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490731510793:android:c02bbfa9dbd2db1dd9acd8",
+        "android_client_info": {
+          "package_name": "com.gotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490731510793-l7fuq5fh96u4451e0pqrr44an3jll6bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpkkyci39FY_ic_quC9GgJ_a957IlH6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490731510793-l7fuq5fh96u4451e0pqrr44an3jll6bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
